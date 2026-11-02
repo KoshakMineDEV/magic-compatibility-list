@@ -32,3 +32,7 @@ If some information in this table is wrong - please open [Issue](https://github.
 | [Potato Shaders](https://modrinth.com/shader/potato-shaders) | 🟢 | Only global Magic-side visual issues |
 | [Better Voxels](https://modrinth.com/shader/bettervoxels) | 🔴 | Can't be compiled |
 | [Sildurs Vibrant Shaders](https://modrinth.com/shader/sildurs-vibrant-shaders) | 🔴 | Black screen |
+| [SEUS PTGI E12](https://www.patreon.com/sonicether/posts/download-seus-32990443) | 🟢 | Only global Magic-side visual issues |
+| [SEUS HRR 2.1](https://www.patreon.com/sonicether/posts/download-seus-2-45141775) | 🟢 | Only global Magic-side visual issues |
+| [SEUS HRR 3](https://www.patreon.com/sonicether/posts/download-seus-3-60268558) | 🟢 | Only global Magic-side visual issues |
+| [IterationT 3.2.0]() | 🟢 | Only global Magic-side visual issues |
