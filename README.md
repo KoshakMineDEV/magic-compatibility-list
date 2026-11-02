@@ -1,4 +1,4 @@
-# Magic Loader Shaderpack Compatibility List
+# Magic Loader 0.1.1 Shaderpack Compatibility List
 
 🔴- Broken
 🟠- Partially working (read extra)
