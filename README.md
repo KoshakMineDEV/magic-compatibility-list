@@ -10,9 +10,10 @@
 | --- | --- | --- |
 | [Complementary Shaders Reimagined](https://modrinth.com/shader/complementary-reimagined) | 🟡 | Some Iris-specific features are broken |
 | [Complementary Shaders Unbound](https://modrinth.com/shader/complementary-unbound) | 🟡 | Some Iris-specific features are broken |
-| [BSL Shaders](https://modrinth.com/shader/bsl-shaders) | ❔ | None |
-| [Bliss Shaders](https://modrinth.com/shader/bliss-shader) | ❔ | None |
-| [Solas Shader](https://modrinth.com/shader/solas-shader) | ❔ | None |
+| [BSL Shaders](https://modrinth.com/shader/bsl-shaders) | 🟡 | Kinda working, but not fully tested |
+| [Photon Shader](https://modrinth.com/shader/photon-shader) | 🟡 | Kinda working, but not fully tested |
+| [Solas Shader](https://modrinth.com/shader/solas-shader) | 🟡 | Kinda working, but not fully tested |
+| [Bliss Shaders](https://modrinth.com/shader/bliss-shader) | 🟡 | Kinda working, but not fully tested |
 | [MakeUp - Ultra Fast](https://modrinth.com/shader/makeup-ultra-fast-shaders) | ❔ | None |
 | [Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels) | ❔ | None |
 | [Mellow](https://modrinth.com/shader/mellow) | ❔ | None |
@@ -27,3 +28,4 @@
 | [Spooklementary](https://modrinth.com/shader/spooklementary) | 🟡 | Some Iris-specific features are broken |
 | [VanillAA](https://modrinth.com/shader/vanillaa) | ❔ | None |
 | [Potato Shaders](https://modrinth.com/shader/potato-shaders) | ❔ | None |
+| [Better Voxels](https://modrinth.com/shader/bettervoxels) | 🔴 | Can't be compiled |
