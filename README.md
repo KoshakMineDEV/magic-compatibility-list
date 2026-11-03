@@ -12,7 +12,7 @@ If some information in this table is wrong - please open [Issue](https://github.
 | --- | --- | --- |
 | [Complementary Shaders Reimagined](https://modrinth.com/shader/complementary-reimagined) | 🟡 | Some Iris-specific features are broken |
 | [Complementary Shaders Unbound](https://modrinth.com/shader/complementary-unbound) | 🟡 | Some Iris-specific features are broken |
-| [BSL Shaders](https://modrinth.com/shader/bsl-shaders) | 🟡 | Kinda working, but not fully tested |
+| [BSL Shaders](https://modrinth.com/shader/bsl-shaders) | 🟢 | Only global Magic-side visual issues |
 | [Photon Shader](https://modrinth.com/shader/photon-shader) | 🟡 | Kinda working, but not fully tested |
 | [Solas Shader](https://modrinth.com/shader/solas-shader) | 🟠 | Broken water and lightning |
 | [Bliss Shaders](https://modrinth.com/shader/bliss-shader) | 🟢 | Only global Magic-side visual issues |
@@ -30,9 +30,18 @@ If some information in this table is wrong - please open [Issue](https://github.
 | [Spooklementary](https://modrinth.com/shader/spooklementary) | 🟡 | Some Iris-specific features are broken |
 | [VanillAA](https://modrinth.com/shader/vanillaa) | 🟡 | Looks extremely bad, useless but kinda working |
 | [Potato Shaders](https://modrinth.com/shader/potato-shaders) | 🟢 | Only global Magic-side visual issues |
+| [I Like Vanilla](https://modrinth.com/shader/i-like-vanilla/) | 🟢 | Only global Magic-side visual issues |
+| [Vanilla Plus Shader](https://modrinth.com/shader/vanilla-plus-shader) | 🟢 | Only global Magic-side visual issues |
+| [Visual Vibrance](https://modrinth.com/shader/visual-vibrance) | 🔴 | Can't be compiled |
+| [Noble Shaders](https://modrinth.com/shader/noble) | 🔴 | Empty world |
+| [BSL Shaders Classic](https://modrinth.com/shader/bsl-shaders-classic) | 🟢 | Only global Magic-side visual issues |
+| [Shrimple](https://modrinth.com/shader/shrimple) | 🔴 | Can't be compiled |
+| [Bloop Shaders](https://modrinth.com/shader/bloop-shaders) | 🔴 | Black screen |
+| [FastPBR](https://modrinth.com/shader/fastpbr) | 🔴 | Infinite compilation |
+| [E-Lite Shaders](https://modrinth.com/shader/lite-shaders) | 🟢 | Only global Magic-side visual issues |
 | [Better Voxels](https://modrinth.com/shader/bettervoxels) | 🔴 | Can't be compiled |
 | [Sildurs Vibrant Shaders](https://modrinth.com/shader/sildurs-vibrant-shaders) | 🔴 | Black screen |
 | [SEUS PTGI E12](https://www.patreon.com/sonicether/posts/download-seus-32990443) | 🟢 | Only global Magic-side visual issues |
 | [SEUS HRR 2.1](https://www.patreon.com/sonicether/posts/download-seus-2-45141775) | 🟢 | Only global Magic-side visual issues |
-| [SEUS HRR 3](https://www.patreon.com/sonicether/posts/download-seus-3-60268558) | 🟢 | Only global Magic-side visual issues |
+| [SEUS Renewed](https://sonicether.com/shaders/download/renewed-v1-0-1/) | 🟢 | Only global Magic-side visual issues |
 | [IterationT 3.2.0]() | 🟢 | Only global Magic-side visual issues |
